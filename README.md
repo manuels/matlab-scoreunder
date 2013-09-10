@@ -1,7 +1,7 @@
 matlab-scoreunder
 =================
 
-This library brings some functions for functional programming from [underscore](http://underscorejs.org/)[lowdash](http://lodash.com/)/[scoreunder](https://github.com/loop-recur/scoreunder) to matlab.
+This library is for everyone who hates matlab just as deeply as I do. It brings some functions for functional programming from [underscore](http://underscorejs.org/)[lowdash](http://lodash.com/)/[scoreunder](https://github.com/loop-recur/scoreunder) to matlab.
 Note that its paragon is scoreunder that means that it aims to support lowdash functions (where it makes sense) but the arguments of all functions are reversed!
 
 Getting Started
