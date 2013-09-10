@@ -48,7 +48,7 @@ Map/Reduce
 
 More functions
 ==============
-For more functions supported by scoreunder and how to use them checkout the `test.m` file
+For more functions supported by scoreunder and how to use them checkout the [`test.m`](https://github.com/manuels/matlab-scoreunder/blob/master/test.m) file
 
     fieldnames(scoreunder())
         'autoCurry'
@@ -73,4 +73,4 @@ For more functions supported by scoreunder and how to use them checkout the `tes
 
 Help Developing
 ===============
-I'm more than welcome for pull requests. However, note that every new feature must include tests in `test.m` that check and describe them.
+I'm more than welcome for pull requests. However, note that every new feature must include tests in [`test.m`](https://github.com/manuels/matlab-scoreunder/blob/master/test.m) that check and describe them.
